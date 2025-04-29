@@ -1,25 +1,23 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    border: none;
-    outline: none;
-    text-decoration: none;
-    scroll-behavior: smooth;
-}
-
 :root {
-    /* Light‑mode palette */
-    --bg-color: #fdfdfd;
-    --text-color: #4B2E2E;          /* Deep cozy brown */
-    --main-color: #b57676;          /* Accent */
-    --accent-color: #A9746E;        /* Warm rosewood */
-    --highlight-color: #D9B79C;     /* Creamy highlight */
-    --shadow-color: rgba(0, 0, 0, .2);
+    /* Light‑mode palette - soft and airy blues */
+    --bg-color: #f0f8ff;             /* Alice Blue background */
+    --text-color: #0b3d91;           /* Rich navy for text */
+    --main-color: #5b9bd5;           /* Sky blue accent */
+    --accent-color: #89c4f4;         /* Soft azure */
+    --highlight-color: #d6eaff;      /* Pale blue highlight */
+    --shadow-color: rgba(0, 0, 0, 0.15);
 
     /* Fonts */
     --heading-font: 'Playfair Display', serif;
     --body-font: 'Poppins', sans-serif;
+}
+
+/* Dark‑mode overrides - deep and elegant blues */
+.dark-mode {
+    --bg-color: #0a1e3f;             /* Midnight blue */
+    --text-color: #e0f7ff;           /* Soft light blue text */
+    --shadow-color: rgba(0, 0, 0, 0.6);
+    --main-color: #4a90e2;           /* Vibrant blue */
 }
 
 /* Dark‑mode overrides */
