@@ -1,3 +1,13 @@
+* {
+    margin: 0;
+    font-family: var(--body-font);
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+}
+
 :root {
     /* Light‑mode palette - soft and airy blues */
     --bg-color: #f0f8ff;             /* Alice Blue background */
@@ -18,14 +28,6 @@
     --text-color: #e0f7ff;           /* Soft light blue text */
     --shadow-color: rgba(0, 0, 0, 0.6);
     --main-color: #4a90e2;           /* Vibrant blue */
-}
-
-/* Dark‑mode overrides */
-.dark-mode {
-    --bg-color: #0b061f;
-    --text-color: #fdfdfd;
-    --shadow-color: rgba(0, 0, 0, .7);
-    --main-color: #d19898;
 }
 
 .dark-mode .btn {
