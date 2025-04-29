@@ -2,12 +2,12 @@
 
 Welcome to the official GitHub repository of my personal portfolio website! This site showcases my skills, experience, certifications, and projects as a **UI/UX Designer** and **Front-End Developer**.
 
-🔗 **Live Site:** [Click here to visit]()  
-📄 **Resume Download:** ()
+ **Live Site:** [Click here to visit]()  
+ **Resume Download:** ()
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Sleek and modern UI/UX design
 - Responsive layout for mobile and desktop
@@ -23,7 +23,7 @@ Welcome to the official GitHub repository of my personal portfolio website! This
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **HTML5**
 - **CSS3**
@@ -33,7 +33,7 @@ Welcome to the official GitHub repository of my personal portfolio website! This
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```bash
 .
